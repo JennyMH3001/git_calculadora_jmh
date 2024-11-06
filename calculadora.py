@@ -9,8 +9,7 @@ def multiplicacion(a, b):
 
 def division(a, b):
     if b == 0:
-        return "Error: División   
- por cero."
+        return "Error: División por cero."
     return a / b
 
 def potencia(a, b):
