@@ -1,15 +1,11 @@
-<<<<<<< HEAD
 import math
 
 
-=======
->>>>>>> resta-feature
 def suma(a, b):
     return a + b
 
 def resta(a, b):
     return a - b
-<<<<<<< HEAD
 
 def multiplicacion(a, b):
     return a * b
@@ -32,5 +28,3 @@ def logaritmo(a):
     if a <= 0:
         return "Error: El argumento del logaritmo debe ser mayor que cero."
     return math.log10(a)  # Calcula el logaritmo en base 10
-=======
->>>>>>> resta-feature
